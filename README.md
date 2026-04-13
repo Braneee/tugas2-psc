@@ -1,10 +1,10 @@
-# 📌 Sistem Manajemen Mahasiswa & Mata Kuliah
+# Sistem Manajemen Mahasiswa & Mata Kuliah
 
 Latihan studi kasus untuk mengelola data mahasiswa dan nilai mata kuliah menggunakan **Functional Programming** di JavaScript.
 
 ---
 
-## 📋 Struktur Proyek
+## Struktur Proyek
 
 ```
 Tugas2_PSC/
@@ -17,7 +17,7 @@ Tugas2_PSC/
 
 ---
 
-## 📊 Data Struktur
+## Data Struktur
 
 ### mahasiswaList - Menyimpan daftar mahasiswa
 
@@ -107,7 +107,7 @@ Dimana:
 
 ---
 
-## 🚀 Cara Menjalankan
+## Cara Menjalankan
 
 ### 1. Instalasi (opsional)
 
@@ -129,7 +129,7 @@ node index.js
 
 ---
 
-## 📝 Contoh Penggunaan
+## Contoh Penggunaan
 
 ### Destructuring dari Mahasiswa.js
 
@@ -204,7 +204,7 @@ console.log(kategoriNilai(72)); // "C (Cukup)"
 
 ---
 
-## ✨ Keunggulan Functional Programming
+## Keunggulan Functional Programming
 
 ✅ **Pure Functions** - Fungsi tidak mengubah state global
 ✅ **Data Immutability** - Data dikembalikan dalam bentuk baru
@@ -214,7 +214,7 @@ console.log(kategoriNilai(72)); // "C (Cukup)"
 
 ---
 
-## 📊 Fitur Utama
+## Fitur Utama
 
 ✅ Manajemen data mahasiswa dan mata kuliah
 ✅ Perhitungan nilai otomatis dengan formula bobot
@@ -227,13 +227,3 @@ console.log(kategoriNilai(72)); // "C (Cukup)"
 ✅ Data validation & error handling
 
 ---
-
-## 👨‍💻 Author
-
-Program ini dibuat untuk latihan PSC (Pemrograman Struktur Data dan Komputer)
-
----
-
-## 📄 License
-
-ISC
