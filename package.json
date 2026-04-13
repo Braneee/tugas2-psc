@@ -1,0 +1,21 @@
+{
+  "name": "tugas2-psc-mahasiswa",
+  "version": "1.0.0",
+  "description": "Sistem Manajemen Data Mahasiswa dan Mata Kuliah",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "mahasiswa",
+    "mata-kuliah",
+    "psc"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  }
+}
